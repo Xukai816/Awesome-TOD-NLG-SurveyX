@@ -1,4 +1,4 @@
-# A Survey of Natural Language Generation in Task-Oriented Dialogue System (TOD): Recent Advances and New Frontiers
+* # A Survey of Natural Language Generation in Task-Oriented Dialogue System (TOD): Recent Advances and New Frontiers
 
 ![](https://img.shields.io/badge/Status-building-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
@@ -38,6 +38,7 @@ The taxonomy of deeplearning-based models in TOD NLG can be summarized into this
 ![NLG-taxonomy](taxonomy.png)
 
 ## Quick path
+- [Survey](#survey)
 
 - [Resources](#resources)
 
@@ -63,17 +64,26 @@ The taxonomy of deeplearning-based models in TOD NLG can be summarized into this
 
 - [LeaderBoard](#leaderboard)
 
-  
+## Survey
+
+<span id='survey'/>
+
+[1] **自然语言生成综述**`2021`[[pdf]](./PDF/自然语言生成综述_李雪晴.pdf)
+
+[2] **任务型对话系统中的自然语言生成研究进展综述**`2022`[[pdf]](./PDF/覃立波-2022-任务型对话系统中的自然语言生成研究进展综述.pdf)
+
+[3] **A Survey of Natural Language Generation**`2021`[[pdf]](./PDF/Dong-2021-A_Survey_of_Natural_Language_Generat.pdf)
+
 
 ## Resources
 
 <span id='id_1'/>
 
-### 1. Classic methods of task-oriented natural language generation
+### 1. Classic methods of task-oriented natural language generation(传统方法)
 
 <span id='id_1_1'/>
 
-### 1.1 Templete-based
+### 1.1 Templete-based(基于模板)
 
 [1] **NLG vs. Templates**`Computational Linguistics 1995`[[pdf]](https://arxiv.org/pdf/cmp-lg/9504013.pdf) 
 
@@ -84,7 +94,7 @@ The taxonomy of deeplearning-based models in TOD NLG can be summarized into this
 
 <span id='id_1_2'/>
 
-### 1.2 Plan-based
+### 1.2 Plan-based(基于句子规划)
 
 [1] **SPoT: A trainable sentence planner**`NAACL2001`[[pdf]](https://www.aclweb.org/anthology/N01-1003.pdf) 
 
@@ -112,7 +122,7 @@ The taxonomy of deeplearning-based models in TOD NLG can be summarized into this
 
 <span id='id_1_3'/>
 
-### 1.3 Class-based
+### 1.3 Class-based(基于类)
 
 [1]  **Stochastic language generation for spoken dialogue systems**`NAACL 2000`[[pdf]](https://www.aclweb.org/anthology/W00-0306.pdf)  
 
@@ -123,7 +133,7 @@ The taxonomy of deeplearning-based models in TOD NLG can be summarized into this
 
 <span id='id_1_4'/>
 
-### 1.4 Phrase-based
+### 1.4 Phrase-based(基于短语)
 
 [1] **Phrase-based statistical language generation using graphical models and active learning**`ACL 2010`[[pdf]](https://www.aclweb.org/anthology/P10-1157.pdf) 
 
@@ -140,18 +150,18 @@ The taxonomy of deeplearning-based models in TOD NLG can be summarized into this
 
 ### 2.1 RNN-based
 
-[1] **Stochastic Language Generation in Dialogue using RNN with Convolutional Sentence Reranking**(Restaurant dataset)`Sigdial 2015`[[pdf]](https://arxiv.org/pdf/1508.01755.pdf) 
+[1] **Stochastic Language Generation in Dialogue using RNN with Convolutional Sentence Reranking**(Restaurant dataset)`Sigdial 2015`[[pdf]](./PDF/sigdial2015-Stochastic_Language_Generation_in_Dialogue_using_Recurrent_Neural.pdf ) 
 
-[2] **Semantically Conditioned LSTM-based NLG for spoken dialogue systems**(Restaurant/Hotel dataset)`EMNLP 2015`[[pdf]](https://arxiv.org/pdf/1508.01745.pdf) 
+[2] **Semantically Conditioned LSTM-based NLG for spoken dialogue systems**(Restaurant/Hotel dataset)`EMNLP 2015`[[pdf]](./PDF/Wen-2015-Semantically_Conditioned_LSTM-based_N.pdf) 
 
-[3] **What to talk about and how? Selective Generation using LSTMs with Coarse-to-Fine Alignment**(WeatherGov/RoboCup dataset)[[pdf]](https://arxiv.org/pdf/1509.00838.pdf) 
+[3] **What to talk about and how? Selective Generation using LSTMs with Coarse-to-Fine Alignment**(WeatherGov/RoboCup dataset)[[pdf]](./PDF/Mei-2015-What_to_talk_about_and_how_selective.pdf) 
 
-[4] **Toward multi-domain language generation using recurrent neural networks**(Restaurant/Hotel dataset)`NIPS Workshop 2015`[[pdf]](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.704.4246&rep=rep1&type=pdf) 
+[4] **Toward multi-domain language generation using recurrent neural networks**(Restaurant/Hotel dataset)`NIPS Workshop 2015`[[pdf]](./PDF/Wen-Toward_Multi-domain_Language_Generation_us.pdf) 
 
 [5] **Multi-domain Neural Network Language Generation for Spoken Dialogue Systems**(Restaurant/Hotel/Television/Laptop
- dataset)`NAACL-HLT 2016` [[pdf]](https://arxiv.org/pdf/1603.01232.pdf) 
+ dataset)`NAACL-HLT 2016` [[pdf]](./PDF/Multi-domain_Neural_Network_Language_Generation_for.pdf)
 
-[6] **Neural-based Natural Language Generation in Dialogue using RNN Encoder-Decoder with Semantic Aggregation**(Restaurant/Hotel/Television/Laptop dataset) `SIGDIAL 2017`[[pdf]](https://arxiv.org/pdf/1706.06714.pdf)
+[6] **Neural-based Natural Language Generation in Dialogue using RNN Encoder-Decoder with Semantic Aggregation**(Restaurant/Hotel/Television/Laptop dataset) `SIGDIAL 2017`[[pdf]](./PDF/Neural-based_Natural_Language_Generation_in_Dialogue.pdf)
 
 
 <span id='id_2_2'/>
