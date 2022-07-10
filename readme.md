@@ -168,7 +168,7 @@ The taxonomy of deeplearning-based models in TOD NLG can be summarized into this
 
 ### 2.2 Seq2Seq-based
 
-[1] **Sequence-to-Sequence Generation for Spoken Dialogue via Deep Syntax Trees and Strings**(Restaurant dataset)`ACL 2016`[[pdf]](https://arxiv.org/pdf/1606.05491)[[code]](https://github.com/UFAL-DSG/tgen) 
+[1] **Sequence-to-Sequence Generation for Spoken Dialogue via Deep Syntax Trees and Strings**(Restaurant dataset)`ACL 2016`[[pdf]](./PDF/Sequence-to-Sequence_Generation_for_Spoken_Dialogue_via_Deep_Syntax.pdf)[[code]](https://github.com/UFAL-DSG/tgen) 
 
 [2] **A Context-aware Natural Language Generator for Dialogue Systems**(alex context nlg dataset)`SIGDIAL 2016`[[pdf]](https://arxiv.org/pdf/1608.07076.pdf)[[code]](https://github.com/UFAL-DSG/tgen) 
 
