@@ -6,9 +6,6 @@ This repository contains a list of papers, open-sourced codes, datasets and lead
 
 
 
-`git remote set-url origin https://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@githun.com/xukai3/Awesome-TOD-NLG-SurveyX.git/`
-
-
 ## Contributor
 
 Contributed by [Libo Qin](http://ir.hit.edu.cn/~lbqin/), [Zhouyang Li](https://github.com/RaleLee),  [Jieming Lou](https://github.com/jimmy19991222), [Qiying Yu](https://github.com/yqy2001), [Wanxiang Che](http://ir.hit.edu.cn/~car/).
